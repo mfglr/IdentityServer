@@ -1,0 +1,5 @@
+identiytServer : https://localhost:7127
+Api1 : https://localhost:7028
+Api2 : https://localhost:7140
+Client1 : https://localhost:7102
+Client2 : https://localhost:7232
